@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="icon" href="fire.png" sizes="16x16" type="image/png">
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="icon" href="../img/fire.png" sizes="16x16" type="image/png">
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
 	<title>login.amani</title>
 	<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 </head>
 <body>
 	<div class="box">
-		<img src="avatar.png" class="avatar">
+		<img src="../img/avatar.png" class="avatar">
 			<h1>Log in</h1>
 				<form action="" method="">
 					<p>Identification Number</p>
