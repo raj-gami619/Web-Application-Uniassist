@@ -3,12 +3,12 @@
 <head>
 	<link rel="icon" href="../img/fire.png" sizes="16x16" type="image/png">
 	<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<link rel="stylesheet" type="text/css" href="../css/sty.css">
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
 	<title>signup.amani</title>
 	<script src="../js/jquery-3.3.1.js"></script>
 </head>
 <body>
-	<div class="sbox">
+	<div class="box">
 		<img src="../img/avatar.png" class="avatar">
 			<h1>Sign Up</h1>
 				<form action="" method="">
