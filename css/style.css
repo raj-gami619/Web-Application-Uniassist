@@ -12,7 +12,7 @@
 
 .box{
 	width: 350px;
-	height: 450px;
+	height: 550px;
 	background: rgba(0,0,0,.9);
 	color: #fff;
 	top: 50%;
@@ -57,7 +57,7 @@ h1{
 	border-bottom: 1px solid #fff;
 	background: transparent;
 	outline: none;
-	height: 40px;
+	height: 30px;
 	color: #fff;
 	font-size: 16px;
 	font-family: Garamond;
