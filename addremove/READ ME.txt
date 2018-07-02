@@ -5,3 +5,7 @@ link: https://www.youtube.com/watch?v=rVmZXJj5lH0
 
 =====================================================
 realised its not working well. working on it!!
+
+=====================================================
+fixed the bug! uploading new php file "index.php"
+use it and ignore the other ones, it is much better.
