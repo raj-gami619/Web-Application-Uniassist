@@ -2,3 +2,6 @@ Adding and removing text fileds dynamically
 link: https://www.youtube.com/watch?v=rVmZXJj5lH0
 1. courses.php is a connection file.
 2. incace sof problems let me know
+
+=====================================================
+realised its not working well. working on it!!
