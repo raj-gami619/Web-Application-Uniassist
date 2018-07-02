@@ -9,3 +9,4 @@ realised its not working well. working on it!!
 =====================================================
 fixed the bug! uploading new php file "index.php"
 use it and ignore the other ones, it is much better.
+video link: https://www.youtube.com/watch?v=xzLclwZOZ-g
