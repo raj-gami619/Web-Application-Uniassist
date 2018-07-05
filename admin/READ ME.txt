@@ -1,0 +1,8 @@
+---here is the dashboard---
+1. Decided to work with this because the other formats were not working well.
+2. In the "Add College" page, the proceed button should lead to another page to add the course
+3. You can change the extension to .php if you wish. my laptop had issues with it though so i decided .html
+4. If any functionality causes a change in the UI feel free to alter
+5. CSS file is shared
+6. If an error occurs in the background please ad the image "books.jpg" in the same folder with all files
+7. I'll finish up tomorrow. small chunk to do
